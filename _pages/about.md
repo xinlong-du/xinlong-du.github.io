@@ -34,4 +34,6 @@ News
 
 **6/28/2021:** The Northeastern Graduate Structural Engineering Association (NGSEA) won the [2021 SEI Graduate Student Chapter of the Year Award](https://www.bsces.org/news/org/ngsea-wins-the-2021-sei-graduate-student-chapter-of-the-year-award-3767). Congratulations!
 
+**5/28/2021:** Xinlong attended the [EMI 2021 Conference](https://www.emi-conference.org/) and gave a presentation on nonlinear beam element development for steel members with asymmetric sections subjected to dynamic loading.
+
 **2/23/2021:** Xinlong volunteered to serve as a mentor for the [NHERI SimCenter Programming Bootcamp](https://simcenter.designsafe-ci.org/news/2021/february/nheri-features-simcenter-programming-bootcamps/).
