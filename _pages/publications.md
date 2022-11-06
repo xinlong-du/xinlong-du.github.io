@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-reviewed journal papers
-======
+## Peer-reviewed journal papers
 1. Du, X. and Hajjar, J. (2021). Three-dimensional nonlinear displacement-based beam element for members with angle and tee sections. Engineering Structures, 239, 112239.
 
 2. Du, X. and Hajjar, J.F. (2021). Three-dimensional nonlinear mixed 6-DOF beam element for thin-walled members. Thin-Walled Structures, 164, 107817.
@@ -19,8 +18,7 @@ Peer-reviewed journal papers
 
 6. Du, X. and Hajjar, J.F. Event-based collapse fragility development of electrical transmission towers for regional hurricane risk analysis. Engineering Structures. (Under review)
 
-Conference proceedings
-======
+## Conference proceedings
 1. Du, X., Hajjar, J.F., Bond, R.B., and Sun, H. Collapse fragility development of electrical transmission
 towers subjected to hurricanes. Proceedings of the IABSE Symposium 2022. International Association for Bridge and Structural Engineering; May 25, 2022; Zurich, Switzerland.
 
