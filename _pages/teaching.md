@@ -23,6 +23,4 @@ author_profile: true
 **Spring 2019:** CIVE 3425 Steel Design (Teaching Assistant)
 
 ## 2022 Graduate Teaching Award from the College of Engineering at Northeastern University
-![Alt text](http://xinlong-du.github.io/files/Teaching_Award.jpg)
-
-<img src="http://xinlong-du.github.io/files/Teaching_Award.jpg" alt="drawing" width="200"/>
+<img src="http://xinlong-du.github.io/files/Teaching_Award.jpg" alt="drawing" width="500"/>
