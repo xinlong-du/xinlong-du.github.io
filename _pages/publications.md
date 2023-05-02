@@ -14,7 +14,7 @@ author_profile: true
 
 4. Wang, W., Du, X., Zhang, Y., and Chen, Y. (2017). Experimental investigation of beam-through steel frames with self-centering modular panels. Journal of Structural Engineering, 143(5), 04017006.
 
-5. Du, X., Hajjar, J.F., Bond, R.B., Ren, P., and Sun, H. Clustering and selection of hurricane wind records using a machine learning approach. Engineering Archive. https://doi.org/10.31224/2572. (Under review for ASCE Journal of Structural Engineering)
+5. Du, X., Hajjar, J.F., Bond, R.B., Ren, P., and Sun, H. Clustering and selection of hurricane wind records using a machine learning approach. Engineering Archive. https://doi.org/10.31224/2572. (Accepted for pubulication in ASCE's Journal of Structural Engineering, DOI: 10.1061/JSENDH/STENG-12110)
 
 6. Du, X. and Hajjar, J.F. Event-based collapse fragility development of electrical transmission towers for regional hurricane risk analysis. Engineering Structures. (Under review)
 

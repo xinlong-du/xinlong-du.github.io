@@ -16,9 +16,9 @@ News
 ======
 **3/9/2023:** A new paper titled "Clustering and selection of hurricane wind records using autoencoder and k-means algorithm (DOI: 10.1061/JSENDH/STENG-12110)" has been accepted for publication in ASCE's Journal of Structural Engineering. Congratulations!
 
-**2/28/2023:** Xinlong went to Denver and attended the [PV Reliabiity Workshop](https://www.nrel.gov/pv/pvrw.html) hosted by NREL. He presented a poster on determining lifetime duty cycles of solar PV joints.
+**2/28/2023:** Xinlong went to Denver and attended the [PV Reliabiity Workshop](https://www.nrel.gov/pv/pvrw.html) hosted by NREL. He presented a poster on determining lifetime duty cycles of solar PV joints. He also co-chaired a session "Durability outside of the module laminate A". Here are the [program details](https://pvrw.github.io/).
 
-**2/8/2023:** Xinlong attended the [NEW TRENDS IN REAL-TIME HYBRID SIMULATIONS TO ADVANCE FLUID-STRUCTURE INTERACTION RESEARCH](https://www.designsafe-ci.org/learning-center/training/workshops/fiu-ef/new-trends-real-time-hybrid-simulations/) workshop at Florida International University.
+**2/8/2023:** Xinlong attended the [NEW TRENDS IN REAL-TIME HYBRID SIMULATIONS TO ADVANCE FLUID-STRUCTURE INTERACTION RESEARCH](https://www.designsafe-ci.org/learning-center/training/workshops/fiu-ef/new-trends-real-time-hybrid-simulations/) workshop at Florida International University. Here are some [details](https://www2.lehigh.edu/news/how-do-powerful-winds-affect-tall-buildings).
 
 **11/8/2022:** A new [preprint](https://engrxiv.org/preprint/view/2661) is online regarding collapse fragility development of electrical transmission towers under hurricanes.
 
