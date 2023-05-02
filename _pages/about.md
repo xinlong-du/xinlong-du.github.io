@@ -14,6 +14,14 @@ Xinlong received his bachelor’s and master’s degrees from Central South Univ
 
 News
 ======
+**3/9/2023:** A new paper titled "Clustering and selection of hurricane wind records using autoencoder and k-means algorithm (DOI: 10.1061/JSENDH/STENG-12110)" has been accepted for publication in ASCE's Journal of Structural Engineering. Congratulations!
+
+**2/28/2023:** Xinlong went to Denver and attended the [PV Reliabiity Workshop](https://www.nrel.gov/pv/pvrw.html) hosted by NREL. He presented a poster on determining lifetime duty cycles of solar PV joints.
+
+**2/8/2023:** Xinlong attended the [NEW TRENDS IN REAL-TIME HYBRID SIMULATIONS TO ADVANCE FLUID-STRUCTURE INTERACTION RESEARCH](https://www.designsafe-ci.org/learning-center/training/workshops/fiu-ef/new-trends-real-time-hybrid-simulations/) workshop at Florida International University.
+
+**11/8/2022:** A new [preprint](https://engrxiv.org/preprint/view/2661) is online regarding collapse fragility development of electrical transmission towers under hurricanes.
+
 **10/2/2022:** Xinlong attended the [ETS 2022 Conference](https://www.etsconference.org/) and made a poster presentation on fragility analysis of eletrical transmission towers.
 
 **9/29/2022:** A new [preprint](https://engrxiv.org/preprint/view/2572) is online regarding uncertainty quantification of hurricane wind speed and direction records.
