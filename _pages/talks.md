@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Poster presentation at the 2024 NHERI Computational Symposium
+![Alt text](http://xinlong-du.github.io/files/Poster3NHERISymposium.png)
+
 ## Poster presentation at the 2023 PV Reliability Workshop
 ![Alt text](http://xinlong-du.github.io/files/Poster2PVRW.png)
 
