@@ -20,14 +20,14 @@ author_profile: true
 regional hurricane risk analysis. Engineering Archive. https://doi.org/10.31224/2661.
 
 ## Conference proceedings
-1. [Du, X. and Becker, T. Deformation analysis of solar photovoltaic (PV) structures: lateral-torsional buckling of C purlins restrained by solar modules. Proceedings of the Annual Stability Conference.](https://aisc.s3-us-east-2.amazonaws.com/SSRC/2024/Du_et_al_SSRC_2024.pdf) Structural Stability Research Council; March 19, 2024; Chicago, IL.
+1. [Du, X. and Becker, T. Deformation analysis of solar photovoltaic (PV) structures: lateral-torsional buckling of C purlins restrained by solar modules.](https://aisc.s3-us-east-2.amazonaws.com/SSRC/2024/Du_et_al_SSRC_2024.pdf) Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 19, 2024; Chicago, IL.
 
-2. Du, X., Hajjar, J.F., Bond, R.B., and Sun, H. Collapse fragility development of electrical transmission
-towers subjected to hurricanes. Proceedings of the IABSE Symposium 2022. International Association for Bridge and Structural Engineering; May 25, 2022; Zurich, Switzerland.
+2. [Du, X., Hajjar, J.F., Bond, R.B., and Sun, H. Collapse fragility development of electrical transmission
+towers subjected to hurricanes.](https://structurae.net/en/literature/conference-paper/collapse-fragility-development-of-electrical-transmission-towers-subjected-to-hurricanes) Proceedings of the IABSE Symposium 2022. International Association for Bridge and Structural Engineering; May 25, 2022; Zurich, Switzerland.
 
-3. Du, X. and Hajjar, J.F. Nonlinear dynamic analysis and fragility development of electrical transmission towers under hurricanes. Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 22, 2022; Chicago, IL.
+3. [Du, X. and Hajjar, J.F. Nonlinear dynamic analysis and fragility development of electrical transmission towers under hurricanes.](https://cloud.aisc.org/SSRC/2022/Du_et_al_SSRC_2022.pdf) Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 22, 2022; Chicago, IL.
 
-4. Du, X. and Hajjar, J.F. Hurricane fragility analysis of electrical transmission towers. Proceedings of the Electrical Transmission and Substation Structures Conference. American Society of Civil Engineers; October 2, 2022; Reston, VA.
+4. [Du, X. and Hajjar, J.F. Hurricane fragility analysis of electrical transmission towers.](https://ascelibrary.org/doi/abs/10.1061/9780784484463.030) Proceedings of the Electrical Transmission and Substation Structures Conference. American Society of Civil Engineers; October 2, 2022; Reston, VA.
 
 ## Presentations
 1. Du, X. and Becker, T. Detached-eddy simulation of wind loads on a ground-mounted solar array. NHERI Computational Symposium. NHERI Computational Modeling and Simulation Center (SimCenter); February 1-2, 2024; Los Angeles, CA.
