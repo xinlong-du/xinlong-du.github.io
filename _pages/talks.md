@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Oral presentation at 2024 NASCC: The Steel Conference in conjuction with SSRC 2024 Annual Stability Conference
+![Alt text](http://xinlong-du.github.io/files/Presentation3SSRC2024.png)
+
 ## Poster presentation at the 2024 NHERI Computational Symposium
 ![Alt text](http://xinlong-du.github.io/files/Poster3NHERISymposium.png)
 
