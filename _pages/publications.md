@@ -20,7 +20,7 @@ author_profile: true
 regional hurricane risk analysis. Engineering Archive. https://doi.org/10.31224/2661.
 
 ## Conference proceedings
-1. [Du, X. and Becker, T. Deformation analysis of solar photovoltaic (PV) structures: lateral-torsional buckling of C purlins restrained by solar modules.](https://aisc.s3-us-east-2.amazonaws.com/SSRC/2024/Du_et_al_SSRC_2024.pdf) Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 19, 2024; Chicago, IL.
+1. [Du, X. and Becker, T. Deformation analysis of solar photovoltaic (PV) structures: lateral-torsional buckling of C purlins restrained by solar modules.](http://xinlong-du.github.io/files/paper_Du_et_al_SSRC_2024) Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 19, 2024; Chicago, IL.
 
 2. [Du, X., Hajjar, J.F., Bond, R.B., and Sun, H. Collapse fragility development of electrical transmission
 towers subjected to hurricanes.](https://structurae.net/en/literature/conference-paper/collapse-fragility-development-of-electrical-transmission-towers-subjected-to-hurricanes) Proceedings of the IABSE Symposium 2022. International Association for Bridge and Structural Engineering; May 25, 2022; Zurich, Switzerland.
