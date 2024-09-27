@@ -16,11 +16,15 @@ author_profile: true
 
 5. Du, X., Wang, W., and Chan, T.M.* (2018). [Seismic design of beam-through steel frames with self-centering modular panels](https://doi.org/10.1016/j.jcsr.2017.11.016). Journal of Constructional Steel Research, 141, 179-188.
 
-6. Wang, W., Du, X., Zhang, Y.*, and Chen, Y. (2017). [Experimental investigation of beam-through steel frames with self-centering modular panels](https://doi.org/10.1061/(ASCE)ST.1943-541X.0001743). Journal of Structural Engineering, 143(5), 04017006.
+6. Wang, W.*, Du, X., Zhang, Y., Chu, G., and Chen, Y. (2018). [Full-scale cyclic testing of self-centering modular panels for seismic resilient structures](https://www.scientific.net/kem.763.339). Key Engineering Materials, 763, 339-346.
 
-7.	Du, X., Becker, T.*, Needham, C., Taylor, Z.J., Browne M.T. Cyclic demands on solar structural joints under wind loading. (Under review for the Journal of Structural Engineering)
+7. Wang, W., Du, X., Zhang, Y.*, and Chen, Y. (2017). [Experimental investigation of beam-through steel frames with self-centering modular panels](https://doi.org/10.1061/(ASCE)ST.1943-541X.0001743). Journal of Structural Engineering, 143(5), 04017006.
 
-8.	Du, X.*, Becker T., Taylor, Z.J., Browne M.T. Detached-eddy simulation of wind loads on a ground-mounted solar array. (Under review for the Journal of Wind Engineering and Industrial Aerodynamics)
+8.	Du, X., Becker, T.*, Taylor, Z.J., Needham, C. Cyclic demands on solar structural joints under wind loading. (Under review for the Journal of Structural Engineering)
+
+9. Rodrigues, M.A.C.*, Burgos, R.B., Du, X., Hajjar, J., Martha, L.F. A unified three-dimensional nonlinear mixed formulation with analytical interpolation functions for slender column design. (Under review for Engineering Structures)
+
+10.	Du, X., Becker T., Taylor, Z.J., Detached-eddy simulation of wind loads on a ground-mounted solar array. (In preparation)
 
 ## Conference proceedings
 1. [Du, X. and Becker, T. Deformation analysis of solar photovoltaic (PV) structures: lateral-torsional buckling of C purlins restrained by solar modules.](http://xinlong-du.github.io/files/paper_Du_et_al_SSRC_2024.pdf) Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 19, 2024; Chicago, IL.
@@ -31,6 +35,8 @@ towers subjected to hurricanes.](https://structurae.net/en/literature/conference
 3. [Du, X. and Hajjar, J.F. Nonlinear dynamic analysis and fragility development of electrical transmission towers under hurricanes.](https://cloud.aisc.org/SSRC/2022/Du_et_al_SSRC_2022.pdf) Proceedings of the Annual Stability Conference. Structural Stability Research Council; March 22, 2022; Chicago, IL.
 
 4. [Du, X. and Hajjar, J.F. Hurricane fragility analysis of electrical transmission towers.](https://ascelibrary.org/doi/abs/10.1061/9780784484463.030) Proceedings of the Electrical Transmission and Substation Structures Conference. American Society of Civil Engineers; October 2, 2022; Reston, VA.
+
+5. Hajjar, J.F., Du, X., and Bond, R.B. Collapse fragility development of electrical transmission towers. Proceedings of the 18th world conference on earthquake engineering. June 30, 2024; Milan, Italy.
 
 ## Presentations
 1. Du, X. and Becker, T. Detached-eddy simulation of wind loads on a ground-mounted solar array. NHERI Computational Symposium. NHERI Computational Modeling and Simulation Center (SimCenter); February 1-2, 2024; Los Angeles, CA.
