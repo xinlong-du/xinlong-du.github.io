@@ -38,6 +38,9 @@ towers subjected to hurricanes.](https://structurae.net/en/literature/conference
 
 5. Hajjar, J.F., Du, X., and Bond, R.B. Collapse fragility development of electrical transmission towers. Proceedings of the 18th world conference on earthquake engineering. June 30, 2024; Milan, Italy.
 
+## Reports
+1. [Du, X. and Melaku, A. Estimating wind loads on low-rise buildings using CFD.](http://xinlong-du.github.io/files/Report_LES_TPU.pdf) NHERI-SimCenter. October 31, 2024.
+
 ## Presentations
 1. Du, X. and Becker, T. Detached-eddy simulation of wind loads on a ground-mounted solar array. NHERI Computational Symposium. NHERI Computational Modeling and Simulation Center (SimCenter); February 1-2, 2024; Los Angeles, CA.
 
