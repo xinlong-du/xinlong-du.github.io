@@ -14,6 +14,8 @@ Xinlong received his bachelor’s and master’s degrees from Central South Univ
 
 News
 ======
+**12/17/2024:** A new paper titled "[A unified three-dimensional nonlinear mixed formulation with analytical interpolation functions for slender column analysis](https://doi.org/10.1016/j.engstruct.2024.119481)" has been published in Engineering Structures. Congratulations!
+
 **9/7/2024:** A new paper titled "[Methodology for collapse fragility development for hurricane events: Electrical transmission towers](https://doi.org/10.1016/j.jcsr.2024.109005)" has been published in the Journal of Constructional Steel Research. Congratulations!
 
 **3/9/2023:** A new paper titled "[Clustering and selection of hurricane wind records using autoencoder and k-means algorithm](10.1061/JSENDH/STENG-12110)" has been accepted for publication in ASCE's Journal of Structural Engineering. Congratulations!
