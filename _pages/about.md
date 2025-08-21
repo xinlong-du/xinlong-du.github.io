@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[Dr. Xinlong Du](https://ceae.ku.edu/people/xinlong-du) is an Assistant Teaching Professor at the University of Kansas. He is teaching Strength of Materials and Theory of Elastic Stability. He was a Postdoctoral Scholar at University of California, Berkeley working with [Dr. Tracy Becker](https://ce.berkeley.edu/people/faculty/tcbecker). His research aims to enhance resilience of critical infrastructures and make renewable energy more accessible and affordable to people. His doctoral research was focused on failure analysis of transmission towers subjected to hurricanes. At UC Berkeley, he is looking at failure of solar arrays under wind storms.
+[Dr. Xinlong Du](https://ceae.ku.edu/people/xinlong-du) is an Assistant Teaching Professor at the University of Kansas. He is teaching Strength of Materials and Theory of Elastic Stability in Fall 2025. 
 
-Xinlong received his bachelor’s and master’s degrees from Central South University and Tongji University in China, respectively. He obtained his PhD degree from Northeastern University. His Ph.D. advisor was [Dr. Jerry Hajjar](https://coe.northeastern.edu/people/hajjar-jerome/).
+Xinlong received his bachelor’s and master’s degrees from Central South University and Tongji University in China, respectively. He obtained his PhD degree from Northeastern University. His Ph.D. advisor was [Dr. Jerry Hajjar](https://coe.northeastern.edu/people/hajjar-jerome/). He once worked as a Postdoctoral Scholar at University of California, Berkeley in the research group of [Dr. Tracy Becker](https://ce.berkeley.edu/people/faculty/tcbecker).
+
+His research aims to enhance resilience of critical infrastructures and make renewable energy more accessible and affordable to people. His doctoral research was focused on failure analysis of transmission towers subjected to hurricanes. At UC Berkeley, he worked on the failure of solar arrays under wind storms.
 
 News
 ======
